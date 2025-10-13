@@ -1,0 +1,24 @@
+{
+    "files": [
+        {
+            "name":"package.json",
+            "fields":[
+                {
+                    "name": "appname",
+                    "attribute": "name",
+                    "prompt": "Name your application:"
+                }
+            ]
+        },
+        {
+            "name":"index.js",
+            "fields":[
+                {
+                    "name": "taskname",
+                    "attribute": "task",
+                    "prompt": "Enter a task name:"
+                }
+            ]
+        }
+    ]
+}

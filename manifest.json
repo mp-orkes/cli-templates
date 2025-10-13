@@ -1,0 +1,19 @@
+ {
+    "languages": [
+      {
+        "name": "Javascript",
+        "frameworks": [
+          {
+            "name": "core",
+            "templates": [
+              {
+                "name": "basic-worker",
+                "description": "Basic Javascript worker with Conductor SDK",
+                "path": "javascript/worker/core"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
