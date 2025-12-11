@@ -10,7 +10,8 @@
       "name": "gradle/wrapper/gradle-wrapper.properties"
     },
     {
-      "name": "gradlew"
+      "name": "gradlew",
+      "mode": "0755"
     },
     {
       "name": "build.gradle"
