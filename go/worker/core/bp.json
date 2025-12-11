@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "name": "worker.go",
+      "fields": [
+        {
+          "name": "taskname",
+          "prompt": "Enter a task name:"
+        }
+      ]
+    },
+    {
+      "name": "go.mod"
+    },
+    {
+      "name": "go.sum"
+    },
+    {
+      "name": "README.md"
+    }
+  ]
+}

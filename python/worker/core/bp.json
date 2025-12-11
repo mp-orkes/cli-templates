@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "name": "worker.py",
+      "fields": [
+        {
+          "name": "taskname",
+          "prompt": "Enter a task name:"
+        }
+      ]
+    },
+    {
+      "name": "requirements.txt"
+    },
+    {
+      "name": "main.py"
+    },
+    {
+      "name": "README.md"
+    }
+  ]
+}

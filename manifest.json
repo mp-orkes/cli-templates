@@ -1,15 +1,15 @@
 {
   "languages": [
     {
-      "name": "Javascript",
+      "name": "Go",
       "frameworks": [
         {
           "name": "core",
           "templates": [
             {
               "name": "basic-worker",
-              "description": "Basic Javascript worker with Conductor SDK",
-              "path": "javascript/worker/core"
+              "description": "Basic Go worker with Conductor SDK",
+              "path": "go/worker/core"
             }
           ]
         }
@@ -25,6 +25,36 @@
               "name": "basic-worker",
               "description": "Basic Java + Spring worker with Conductor SDK",
               "path": "java/worker/spring"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Javascript",
+      "frameworks": [
+        {
+          "name": "core",
+          "templates": [
+            {
+              "name": "basic-worker",
+              "description": "Basic Javascript worker with Conductor SDK",
+              "path": "javascript/worker/core"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Python",
+      "frameworks": [
+        {
+          "name": "core",
+          "templates": [
+            {
+              "name": "basic-worker",
+              "description": "Basic Python worker with Conductor SDK",
+              "path": "python/worker/core"
             }
           ]
         }
